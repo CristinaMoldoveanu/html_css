@@ -4,5 +4,9 @@ body {
   margin-left: 10%;
 }
 h2 {
+  font-family: serif;
   color: red;
+}
+.denumire {
+  color: blue;
 }
